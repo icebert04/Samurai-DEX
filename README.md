@@ -1,6 +1,10 @@
-# DEX
+# Introducing Samurai DEX
 
-I created a DEX blah blah...
+Samurai warriors remain symbols of **discipline**, **courage** and **honor**. And in tribute to these great Japanese warriors... I named my decentralized exchange in their name.
+
+With **Samurai DEX**, users can swap, earn, vote using this platform.
+The protocol facilitiates automated transactions between cryptocurrency tokens on the Ethereum blockchain.
+
 
 ![DEX-screenshot](/DEX3.png)
 
