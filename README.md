@@ -1,8 +1,9 @@
 # Introducing Samurai DEX
 
-Samurai warriors remain symbols of **discipline**, **courage** and **honor**. And in tribute to these great Japanese fighters... I named my decentralized exchange in their name.
+Samurai warriors remain symbols of **discipline**, **courage** and **honor**. And in tribute to these great Japanese fighters...  
+I named my decentralized exchange in their name.
 
-With **Samurai DEX**, users can swap, earn, vote using this platform.
+With **Samurai DEX**, users can swap, earn, vote using this platform.  
 The protocol facilitiates automated transactions between cryptocurrency tokens on the Ethereum blockchain.
 
 
@@ -29,16 +30,17 @@ Here's a preview of what I did with [Sanity.io](https://www.sanity.io/).
 
 ![Sanity-users](/DEX2.png)
 
-Using Sanity's API key, I listed the wallet address, user name (if there was any), and transactions conducted by that specific user.
-The tool is useful since it has Real-time editing and available API requests. It is best in assembling infrastructure from the best components.
+Using Sanity's API key, I listed the wallet address, user name (if there was any), and transactions conducted by that specific user.  
+The tool is useful since it has Real-time editing and available API requests.  
+It is best in assembling infrastructure from the best components.
 
 -------------------------------------------------------------------
 
 > **Disclaimer**
-> This repo is for demonstration purposes only. It is not yet complete and there's still need to add features like adding cryptocurrencies aside from ETH. 
-> Managing token lists could also be added on this.
+> This repo is for demonstration purposes only. It is not yet complete and it still need to expand features like adding cryptocurrencies aside from ETH. 
+> Managing token lists could also be included on this.
 
-> Feel free to contribute by adding functions to Swap, Pool, Vote, etc.
+> Feel free to contribute by incoporating functions to Swap, Pool, Vote, etc.
 
 In summary, this will be a good beginning tool for any  dev to work with in building their own version of a DEX.
 
