@@ -21,7 +21,7 @@ I built the frontend with the use of...
 And on the backend and database, I used some protocols that I've never use in the past like
 
 * Sanity (Web3 headless CMS, used for storing users and transactions) 
-* Alchemy (a dev tool to debug and ship products faster, used also to connect to Reinkeby testnet)
+* Alchemy (a dev tool to debug and ship products faster, used also to connect to Rinkeby testnet)
 
 
 Here's a preview of what I did with [Sanity.io](https://www.sanity.io/). 
