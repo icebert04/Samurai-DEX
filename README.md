@@ -22,3 +22,10 @@ And blah blah
 Here's the Sanity.io blah blah
 
 ![Sanity-users](/DEX2.png)
+
+-------------------------------------------------------------------
+
+> **Disclaimer**
+> This repos is for demonstration purposes
+> You may fork blah blah
+
