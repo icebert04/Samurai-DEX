@@ -19,7 +19,7 @@ And blah blah
 * blah
 * blah
 
-Here's the Sanity.io blah blah
+Here's the [Sanity.io](https://www.sanity.io/) blah blah
 
 ![Sanity-users](/DEX2.png)
 
